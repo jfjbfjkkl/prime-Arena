@@ -28,7 +28,7 @@ export default function Header() {
 
         {/* CTA */}
         <Link
-          href="/login"
+          href="/connexion"
           className="px-4 py-2 text-sm font-semibold rounded-md border border-indigo-500 text-indigo-400 hover:bg-indigo-500 hover:text-white transition shadow-[0_0_15px_rgba(99,102,241,0.6)]"
         >
           Connexion / Inscription

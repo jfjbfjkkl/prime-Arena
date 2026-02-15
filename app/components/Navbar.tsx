@@ -134,7 +134,7 @@ export default function Navbar() {
           </Link>
 
           <Link
-            href="/compte"
+            href="/connexion"
             className="rounded-full border border-white/20 px-4 py-1.5 transition hover:bg-white/5"
           >
             <User size={18} />
